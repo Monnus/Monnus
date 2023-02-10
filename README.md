@@ -23,6 +23,9 @@ facilitating ticket sales of social events hans companies have a need for a deve
 understands excellent UX designs patters. I am well prepared to extend my services for the
 company.
 
+Please also checkout my figma profile
+Figma:https://www.figma.com/@maundrianvelske
+
 My Projects: React.js
 Hotel web page: https://monnus.github.io/hotelapp2/
 Blockchain “docufy”:https://github.com/Monnus/Docuify-1.git …working progress
