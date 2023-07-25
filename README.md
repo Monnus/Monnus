@@ -23,15 +23,18 @@ facilitating ticket sales of social events hans companies have a need for a deve
 understands excellent UX designs patters. I am well prepared to extend my services for the
 company.
 
-Please also checkout my figma profile
+### Please also checkout my figma profile
 Figma:https://www.figma.com/@maundrianvelske
 
-My Projects: React.js
+### My Projects: React.js
 Hotel web page: https://monnus.github.io/hotelapp2/
-Blockchain “docufy”:https://github.com/Monnus/Docuify-1.git …working progress
 Pig game:https://github.com/Monnus/Pig-game.git
 
-To view my React-native/Expo projects please download the repository install Expo framework and npm start or open with browser.
+### Typescript projects:
+Bankest: https://monnus.github.io/BankestTS/
+GuessNumbrTS: https://monnus.github.io/GuessNumberTS/
+
+#### To view my React-native/Expo projects please download the repository install Expo framework and npm start or open with browser.
 My Projects:React-native with Firebase
 Anime app:https://github.com/Monnus/animeappwithJikan
 Resturant app:https://github.com/Monnus/RestaurantApp
