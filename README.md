@@ -28,7 +28,7 @@ Figma:https://www.figma.com/@maundrianvelske
 
 ### My Projects: React.js
 Hotel web page: https://monnus.github.io/hotelapp2/
-Pig game:https://github.com/Monnus/Pig-game.git
+Pig game: https://monnus.github.io/Pig-game/
 
 ### Typescript projects:
 Bankest: https://monnus.github.io/BankestTS/
