@@ -24,27 +24,37 @@ Figma:https://www.figma.com/@maundrianvelske
 
 ### My Projects: React.js
 Hotel web page: https://monnus.github.io/hotelapp2/
+
 Pig game: https://monnus.github.io/Pig-game/
 
 ### Typescript projects:
 Bankest: https://monnus.github.io/BankestTS/
+
 GuessNumbrTS: https://monnus.github.io/GuessNumberTS/
 
 #### To view my React-native/Expo projects please download the repository install Expo framework and npm start or open with browser.
 My Projects:React-native with Firebase
-Anime app:https://github.com/Monnus/animeappwithJikan
+
+Anime app:https://github.com/Monnus/animeappwithJikan\
+
 Resturant app:https://github.com/Monnus/RestaurantApp
 
 ### About me as a person 😎🤗
 I love movies and gaming
-designing in Notion.io scheduales , blogs and content to simply my daily life
+
+designing in Notion.io scheduales, blogs and content to simply my daily life
+
 playing sport
+
 traveling 
 
 #### To get in contact with me:
 ---
 email:maun2velsket@gmail.com, cw_1818181@outlook.com
+
 Number/WhatApp:+27769099742
+
 Or visit my LinkedIn profile:https://www.linkedin.com/mwlite/in/maundrian-velsket-8859421ba
+
 Kind Regards
 Maundrian Velsket
