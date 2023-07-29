@@ -7,11 +7,8 @@ have database knowledge and most important data structures and algorithms skills
 have the ability to self-train for new projects and technologies.
 Short story:
 
-I am proud of the team collaboration assignment I did with my team at Code-Tribe. It was a
-Blockchain project called “Docufy” its purpose was to scan and create a digital fingerprint of
-any document. Serving as digital verification, then send that digital fingerprint to all nodes
-around the world. This application was intended to eliminate all counterfeits/false
-documentation. I also created my own website, which was a demo for a hotel web
+
+I also created my own website, which was a demo for a hotel web
 application adding to it a database using (firebase.js) and design libraries such as( MUI) etc.
 Finally, I successfully completed my course at Code-tribe and graduated In November 2022.
 The role/positision I am aming for I believe I am a perfect fit because I will ensure digital products
