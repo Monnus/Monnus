@@ -1,4 +1,4 @@
-## About as a developer 💻
+## About as me a developer 💻
 ---
 I am a junior software developer, I am dedicated to growing and developing my skills🌱 .
 I have journeyed with Code-Tribe a skills development program that taught me to dedicate myself to programming/developing. I have proven to my superiors that I
